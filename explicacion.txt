@@ -1,0 +1,8 @@
+Simulador de Escalera
+
+Bienvenido a esta breve ejercicio para crear un simulador de "Bajar escaleras".
+
+Este simulador de escaleras consiste en simplemente bajar un piso por piso hasta llegar al piso 1.
+
+El primer paso que debemos hacer es definir cuantos pisos hay con una "palabra especial" que nosotros daremos, puede ser 2, 4, 10 o los pisos que quieras. ¿Es necesario definir cuantos pisos hay? Si, esto es para tener un rango hasta donde vas a bajar.
+Despues de definir cuantos pisos hay, vamos a iniciar con la accion de bajar piso por piso, vamos a utilizar "for in", esto solo va a recorrer los pisos que definimos. Entonces.. ¿qué hace en este ejercicio?, esto nos ayudara a recorrer los pisos uno por uno hasta llegar al piso 1 de los pisos que definimos anteriormente.
